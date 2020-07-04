@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318792360825",
+    "firebase_url": "https://watchout-2851b.firebaseio.com",
+    "project_id": "watchout-2851b",
+    "storage_bucket": "watchout-2851b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318792360825:android:02a49105dc64c66628c5a8",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318792360825-qp3k58ui20811bsueauu988lhaoepnvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4RoQNVl8T-md758CACshcCZEfmH2_uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318792360825-qp3k58ui20811bsueauu988lhaoepnvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
